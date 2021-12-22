@@ -1,0 +1,11 @@
+127.0.0.1 - - [16/Dec/2021:13:22:22 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:13:22:24 +0900] "GET /mvc04/employeelist.action HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:13:22:25 +0900] "GET /mvc04/loginform.action;jsessionid=CD0F031F5AE6AA47638B74BE04CD35C0 HTTP/1.1" 200 2299
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:13:22:25 +0900] "GET /favicon.ico HTTP/1.1" 404 761
+127.0.0.1 - - [16/Dec/2021:23:59:49 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:23:59:52 +0900] "GET /mvc04/employeelist.action HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:23:59:52 +0900] "GET /mvc04/loginform.action;jsessionid=5E38698A1E5257E8F30FB6FD89B59EEE HTTP/1.1" 200 2299
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:23:59:52 +0900] "GET /mvc04/js/jquery-ui.js HTTP/1.1" 200 539419
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:23:59:52 +0900] "GET /mvc04/css/main.css HTTP/1.1" 200 832
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:23:59:52 +0900] "GET /mvc04/css/menuStyle.css HTTP/1.1" 200 675
+0:0:0:0:0:0:0:1 - - [16/Dec/2021:23:59:53 +0900] "GET /favicon.ico HTTP/1.1" 404 761
